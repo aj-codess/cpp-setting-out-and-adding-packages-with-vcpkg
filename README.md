@@ -19,4 +19,4 @@ the above is used to lookout first if the package is first available for use.
 to install say boost-asio use the beloe code
 ./vcpkg/vcpkg install boost-asio
 
-configurations in my cmake file will handle the rest...
+configurations in my cmake file will handle the rest by looking through your entire system to find the package insalled automatically for you
