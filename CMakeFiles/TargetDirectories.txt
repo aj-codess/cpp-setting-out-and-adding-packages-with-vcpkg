@@ -1,0 +1,3 @@
+/Users/macbook/Documents/Projects/try/cpp_pool/server/CMakeFiles/main.dir
+/Users/macbook/Documents/Projects/try/cpp_pool/server/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/Projects/try/cpp_pool/server/CMakeFiles/rebuild_cache.dir

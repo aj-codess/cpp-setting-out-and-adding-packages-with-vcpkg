@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/Users/macbook/Documents/Projects/try/cpp_pool/server/build/Release/generators/CMakePresets.json"
+    ]
+}
